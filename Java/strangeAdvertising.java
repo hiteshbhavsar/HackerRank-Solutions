@@ -6,7 +6,7 @@ import java.util.*;
 import java.util.concurrent.*;
 import java.util.regex.*;
 
-public class viralAdvertising {
+public class strangeAdvertising {
 
     // Complete the viralAdvertising function below.
     static int viralAdvertising(int n) {
